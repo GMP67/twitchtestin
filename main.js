@@ -1,5 +1,5 @@
 var clientId = 'bcd6oal2snot65opctai3quz73r1ji'; 
-var redirectURI = 'file:///home/michl/Pobrane/pubsub-javascript-sample-master/index.html';
+var redirectURI = 'https://raw.githack.com/GMP67/twitchtestin/master/index.html';
 //var scope = 'user_read+chat_login';
 var scope = 'chat:read';
 var ws;
