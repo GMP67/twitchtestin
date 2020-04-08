@@ -1,7 +1,7 @@
 var clientId = 'bcd6oal2snot65opctai3quz73r1ji'; 
 var redirectURI = 'https://raw.githack.com/GMP67/twitchtestin/master/index.html';
 //var scope = 'user_read+chat_login';
-var scope = 'chat:read';
+var scope = 'chat:read+channel:read:redemptions';
 var ws;
 
 function parseFragment(hash) {
